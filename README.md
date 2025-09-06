@@ -11,9 +11,9 @@
 
 | 💻 Tools & Frameworks   | 🧠 Machine Learning      | 🤖 Simulation & Control | 🖼️ Computer Vision   |
 |------------------------|-------------------------|------------------------|---------------------|
-| ROS2, PX4-Autopilot    | TensorFlow, PyTorch     | Gazebo, RViz           | OpenCV, U-Net, OCR |
+| ROS2, PX4-Autopilot    | TensorFlow, PyTorch     | Gazebo, RViz           | OpenCV, OCR        |
 | C++, Python            | Feature Engineering     | MATLAB, AutoCAD        | Object Detection   |
-| Fusion 360             |                         | Text Detection         |                    |
+| Fusion 360             |                         |                        | Text Detection     |
 
 
 ## ⚙️ What I Do
@@ -27,8 +27,7 @@
 
 ## 🏆 Get to Know Me
 
-- 🏫 Mechanical Engineering, BITS Pilani (CGPA: 9.12/10)
-- 🎓 Teaching Assistant: Heat Transfer, BITS Pilani
+- 🏫 Mechanical Engineering, BITS Pilani (CGPA: 9.15/10)
 - 🛠️ Built robots for earthquake zone deployments & multi-robot coordination
 - ⚡ Projects: Autonomous drones, hexapods, ML for robotics
 
